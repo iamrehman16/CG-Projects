@@ -1,7 +1,7 @@
 # Computer Graphics Projects
 
 ## 📌 Table of Contents
-- [PPM Image Processor](#https://github.com/iamrehman16/CG-Projects/tree/master/Assignment1)
+- [PPM Image Processor](https://github.com/iamrehman16/CG-Projects/tree/master/Assignment1)
 
 ---
 
