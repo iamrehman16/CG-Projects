@@ -1,0 +1,6 @@
+﻿  PPM_MAKER.cpp
+X:\6th semester\CG\Assignments\Assignment1\CODE\PPM_MAKER\PPM_MAKER\PPM_MAKER.cpp(365,39): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+X:\6th semester\CG\Assignments\Assignment1\CODE\PPM_MAKER\PPM_MAKER\PPM_MAKER.cpp(366,41): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+X:\6th semester\CG\Assignments\Assignment1\CODE\PPM_MAKER\PPM_MAKER\PPM_MAKER.cpp(367,43): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+X:\6th semester\CG\Assignments\Assignment1\CODE\PPM_MAKER\PPM_MAKER\PPM_MAKER.cpp(371,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PPM_MAKER.vcxproj -> X:\6th semester\CG\Assignments\Assignment1\CODE\PPM_MAKER\x64\Debug\PPM_MAKER.exe
