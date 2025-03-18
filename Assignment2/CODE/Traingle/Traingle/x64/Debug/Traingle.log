@@ -1,0 +1,5 @@
+﻿  Traingle.cpp
+X:\6th semester\CG\Assignments\Assignment2\CODE\Traingle\Traingle\Traingle.cpp(185,47): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+X:\6th semester\CG\Assignments\Assignment2\CODE\Traingle\Traingle\Traingle.cpp(186,49): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+X:\6th semester\CG\Assignments\Assignment2\CODE\Traingle\Traingle\Traingle.cpp(187,48): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  Traingle.vcxproj -> X:\6th semester\CG\Assignments\Assignment2\CODE\Traingle\x64\Debug\Traingle.exe
