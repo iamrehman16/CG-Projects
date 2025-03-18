@@ -16,7 +16,7 @@ This project is a **PPM Reader & Writer** implemented in C++, designed to manipu
 
 This project was created as part of **Assignment 1** in my Computer Graphics course.
 
-🔗 **Project Folder:** [PPM Image Processor](https://github.com/iamrehman16/CG-Projects/tree/main/Assignment1/CODE/PPM_MAKER)
+🔗 **Project Folder:** [PPM Image Processor](https://github.com/iamrehman16/CG-Projects/tree/master/Assignment1)
 
 ---
 # Barycentric Cordinate Pattern Generator
@@ -29,7 +29,7 @@ This project is a **Pattern Generator** implemented in C++, designed to manipula
 
 This project was created as part of **Assignment 2** in my Computer Graphics course.
 
-🔗 **Project Folder:** [PPM Image Processor](https://github.com/iamrehman16/CG-Projects/tree/main/Assignment2/CODE/Traingle)
+🔗 **Project Folder:** [PPM Image Processor](https://github.com/iamrehman16/CG-Projects/tree/master/Assignment2)
 
 ---
 
