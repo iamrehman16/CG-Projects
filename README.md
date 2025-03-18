@@ -29,7 +29,7 @@ This project is a **Pattern Generator** implemented in C++, designed to manipula
 
 This project was created as part of **Assignment 2** in my Computer Graphics course.
 
-🔗 **Project Folder:** [PPM Image Processor](https://github.com/iamrehman16/CG-Projects/tree/master/Assignment2)
+🔗 **Project Folder:** [Barycentric Cordinate Pattern Generator](https://github.com/iamrehman16/CG-Projects/tree/master/Assignment2)
 
 ---
 
